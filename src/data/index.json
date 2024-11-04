@@ -1,0 +1,76 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "#",
+            "title": "Front-End",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": 2,
+            "src": "#",
+            "title": "Back-End",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }, 
+        {
+            "id": 3,
+            "src": "#",
+            "title": "UI & UX",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }, {
+            "id": 4,
+            "src": "#",
+            "title": "Webflow development",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }  
+    ],
+        "portfolio": [
+        {
+            "id": 1,
+            "src": "#",
+            "title": "To-Do List",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "view in GitHub"
+        },
+        {
+            "id": 2,
+            "src": "#",
+            "title": "Weather App",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "view in GitHub"
+        }, 
+        {
+            "id": 3,
+            "src": "#",
+            "title": "Personality Survey",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "link": "view in GitHub"
+        }
+    ],
+        "testimonial": [
+        {
+            "id": 1,
+            "count": 5, 
+            "src": "#",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "author_name": "John Doe",
+            "author_designation": "Starbucks"
+        },
+        {
+           "id": 2,
+            "count": 5, 
+            "src": "#",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "author_name": "Jane Doe",
+            "author_designation": "El Corte Ingles"
+        }, 
+        {
+            "id": 3,
+            "count": 5, 
+            "src": "#",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "author_name": "David Watson",
+            "author_designation": "Santander"
+        }
+    ]
+}
